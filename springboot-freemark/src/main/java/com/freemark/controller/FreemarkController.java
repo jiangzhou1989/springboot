@@ -1,4 +1,4 @@
-package com.zyd.freemark.controller;
+package com.freemark.controller;
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.stereotype.Controller;
